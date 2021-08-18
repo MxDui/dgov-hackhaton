@@ -5,3 +5,7 @@
     <img src="./Discord.PNG">
 </p>
 <hr>
+<a href="https://discord.com/channels/733391663774564443/872121316537434113/877431369905610762">Post in the hackathon Discord channel with a link to your profile and your public post.
+
+</a>
+<hr>
